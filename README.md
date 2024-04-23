@@ -1,57 +1,29 @@
-# Ant Design Pro
+
+
+# 学生成绩管理系统 - 前端页面
+
+
+
+## Ant Design Pro
 
 本项目基于Ant design pro改造，支持操作员权限配置，和web-backend配套使用
 
-## Environment Prepare
 
-Install `node_modules`:
+## 用法
+npm run start
 
-```bash
-npm install
-```
+## 项目截图
 
-or
+![登录](D:\0JAVA\web-frontend-origin\web-frontend\pic\登录.png)
 
-```bash
-yarn
-```
 
-## Provided Scripts
 
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
+## ![首页](D:\0JAVA\web-frontend-origin\web-frontend\pic\首页.png)
 
-Scripts provided in `package.json`. It's safe to modify or add additional script:
+ 
 
-### Start project
+![班级管理](D:\0JAVA\web-frontend-origin\web-frontend\pic\系统管理.png)
 
-```bash
-npm start
-```
+![平均成绩2](D:\0JAVA\web-frontend-origin\web-frontend\pic\平均成绩2.png)
 
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+![成绩管理](D:\0JAVA\web-frontend-origin\web-frontend\pic\班级管理.png)![平均成绩1](D:\0JAVA\web-frontend-origin\web-frontend\pic\平均成绩1.png)
